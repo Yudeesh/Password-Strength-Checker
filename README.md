@@ -1,14 +1,16 @@
 # Password Strength Checker 🔐
 
-This project checks the strength of a password using Python.
+A Python tool that checks the strength of a password based on security rules.
 
 ## Features
-- Checks length
-- Uppercase and lowercase
-- Numbers
-- Special characters
+- Checks password length
+- Detects uppercase and lowercase letters
+- Detects numbers
+- Detects special characters
 
-## Run
+## Technologies Used
+- Python
+- Regex
 
-``bash
+## How to Run
 python password_checker.py
